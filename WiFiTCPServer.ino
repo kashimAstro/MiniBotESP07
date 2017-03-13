@@ -2,8 +2,8 @@
 
 /* #define HTTP */
 
-const char* ssid     = "ZigguratsExtender";
-const char* password = "kashimbrush1987";
+const char* ssid     = "***************";
+const char* password = "***************";
 int pinLeft          = 13;
 int pinRight         = 12;
 bool ValLeft         = false;
